@@ -1,8 +1,8 @@
-## Operation System Cheese Bread
+## Config my Ubuntinho
 
 Installation script for Ubuntu-based distributions and for Ubuntu. Prepare development environment.
 
-## OS  - Pop!_OS
+## Distros 
 
 - [System 76 - Pop!_OS](https://pop.system76.com)
 - [Ubuntu]()
