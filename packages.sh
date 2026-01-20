@@ -23,6 +23,8 @@ libs=(
     "liblzma-dev"
     "gcc"
     "git"
+    "csvkit"
+    "jq"
     )
 
 for lib in "${libs[@]}"; do
